@@ -1,0 +1,9 @@
+# Copy this file to terraform.tfvars and fill in your values.
+# Do NOT commit terraform.tfvars to version control.
+
+yc_token     = "your-yandex-cloud-oauth-token"
+yc_cloud_id  = "your-cloud-id"
+yc_folder_id = "your-folder-id"
+yc_zone      = "ru-central1-a"
+
+public_key_path = "~/.ssh/id_rsa.pub"
