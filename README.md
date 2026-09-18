@@ -79,3 +79,5 @@ curl -s https://ifconfig.me
 ```
 
 ![Скриншот 5 — Подключение к private-vm через public-vm, ping 8.8.8.8](screenshots/5.png)
+
+<img width="2313" height="156" alt="image" src="https://github.com/user-attachments/assets/205d8275-e439-4844-b187-3c47106b423a" />
