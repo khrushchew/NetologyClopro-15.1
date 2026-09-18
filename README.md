@@ -31,7 +31,6 @@
 
 ```bash
 cp terraform.tfvars.example terraform.tfvars
-# Заполнить terraform.tfvars своими значениями
 
 terraform init
 terraform plan
